@@ -1,11 +1,12 @@
-footer{
-    width: 100%;
-    height: 60px;
-    background-color: #00FF00;
+footer {
     position: fixed;
     bottom: 0;
+    width: 100%;
+    background-color: #00FF00;
+    height: 60px;
 }
-footer p{
-    margin: 20px;
+
+footer p {
     text-align: center;
+    margin: 20px;
 }
